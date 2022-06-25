@@ -1,6 +1,6 @@
 
 from bitstring import BitArray
-#Huffman encoding
+#Huffman encoding test
 class Letter:
     code = []
     def __init__(self, name, amount):
